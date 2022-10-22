@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
         height: 200,
     },
     view1: {
-        backgroundColor: '442dc9',
+        backgroundColor: '#442dc9',
         padding: 20,
     },
     view2: {
